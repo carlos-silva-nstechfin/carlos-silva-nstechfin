@@ -62,17 +62,6 @@ Analista de Quality Assurance na **Nstech**, atuando no segmento de **Pedágio &
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=carlos-silva-nstechfin&show_icons=true&theme=github_dark&hide_border=true&count_private=true&locale=pt-br" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-silva-nstechfin&layout=compact&theme=github_dark&hide_border=true&locale=pt-br" />
-
-</div>
-
----
-
 ## 🤝 Vamos Conectar?
 
 > *"Qualidade não é um ato, é um hábito." — Aristóteles*
